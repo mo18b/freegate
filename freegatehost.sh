@@ -6,3 +6,7 @@ yum install -y httpd
 systemctl start httpd
 systemctl enable httpd 
 sudo echo "<h1>Hello World from $(hostname -f) </h1>" | sudo tee /var/www/html/index.html
+ndndd
+dndjdmf
+nbjeddnfnfn
+nfjdddn
